@@ -1,0 +1,107 @@
+h1{
+    margin: 0;
+    color: #869843;
+    font-size: 40px;
+    font-family: "Arial Narrow", "Myriad Pro";
+}
+
+h2{
+    color: #3B7687;
+    font-size:40px;
+    margin: 20px 0 5px 0;
+}
+
+h3{
+    color: #3B7687;
+    font-size:20px;
+    margin: 20px 0 5px 0;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    font-size: medium;
+    text-emphasis-color: white;
+}
+
+body
+{
+    background-image:url(flower.jpg) ;
+    background-size: cover;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-align: center;
+  
+}
+
+.main{
+    margin: 0 0 0 180px;
+    padding: 35px 40px 30px 0;
+    color: #444444;
+    font-family: "Georgia" ;
+    font-size: 14px;
+    line-height: 18px;
+    text-emphasis: justify;
+}
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px ;
+    border-radius: 10px;
+    
+}
+
+
+
+footer{
+    padding: 6px 40px 6px 40px;
+    background: #d6d6d6 ;
+    font-family:  "Lucida Sans Unicode";
+    color: #444444;
+    font-size: 12px;
+    text-decoration: right;
+}
+
+#increment-btn{
+    background: rgb(240, 15, 240);
+}
+
+#save-btn{
+    background: rgb(56, 6, 136);
+
+}
+
+#decrease-btn{
+    background: yellowgreen;
+}
+
+.container{
+    width: 400px;
+    margin: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 19px 13px 5px;
+}
+
+
+.big-container{
+    background: white;
+    max-width: 40%;
+    max-height: 30%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.main-container{
+    background: white;
+    max-width: 80%;
+    max-height: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
